@@ -34,13 +34,13 @@ export default function Footer() {
             <h4 className="text-sm font-medium text-gray-800 mb-4 tracking-wide">Suivez-nous</h4>
             <div className="flex space-x-4">
               <a
-                href="#"
+                href="https://instagram.com"
                 className="w-10 h-10 rounded-full bg-rose-50 flex items-center justify-center text-rose-400 hover:bg-rose-400 hover:text-white transition-all duration-300"
               >
                 <Instagram className="w-5 h-5" />
               </a>
               <a
-                href="#"
+                href="https://facebook.com"
                 className="w-10 h-10 rounded-full bg-rose-50 flex items-center justify-center text-rose-400 hover:bg-rose-400 hover:text-white transition-all duration-300"
               >
                 <Facebook className="w-5 h-5" />
